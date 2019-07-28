@@ -1,2 +1,2 @@
 # Wimbledon
-Rlasma Theme
+Plasma Theme
